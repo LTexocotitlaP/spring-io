@@ -6,3 +6,4 @@
  */
 
 rootProject.name = "spring-io"
+include("quickstart")
