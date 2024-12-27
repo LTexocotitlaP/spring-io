@@ -6,4 +6,4 @@
  */
 
 rootProject.name = "spring-io"
-include("quickstart")
+include("quickstart", "restfulService")
